@@ -14,9 +14,9 @@
 - **Structured Feedback**: Organized analysis covering content clarity, skills presentation, and experience descriptions
 - **Real-time Processing**: Instant analysis with user-friendly progress indicators
 
-## 🎯 Demo
+## 🎯 Live Demo
 
-*Upload your resume and get instant, actionable feedback to improve your job applications*
+**[Try the live app here!]([https://ai-resume-critiquer-crbjhq8czhdwubu3kprfe7.streamlit.app/](https://ai-resume-critiquer-crbjhg8czhdwubu3kprfe7.streamlit.app/))**
 
 ## 🛠️ Tech Stack
 
