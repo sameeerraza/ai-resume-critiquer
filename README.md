@@ -16,7 +16,7 @@
 
 ## 🎯 Live Demo
 
-**[Try the live app here!]([https://ai-resume-critiquer-crbjhq8czhdwubu3kprfe7.streamlit.app/](https://ai-resume-critiquer-crbjhg8czhdwubu3kprfe7.streamlit.app/))**
+**[Try the live app here!]([[https://ai-resume-critiquer-crbjhq8czhdwubu3kprfe7.streamlit.app/](https://ai-resume-critiquer-crbjhg8czhdwubu3kprfe7.streamlit.app/)](https://ai-resume-critiquer-crbjhg8czhdwubu3kprfe7.streamlit.app/))**
 
 ## 🛠️ Tech Stack
 
